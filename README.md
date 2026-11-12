@@ -55,7 +55,7 @@
 
 #### **Database, DevOps & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,linux" />
 </p>
 
 #### **Developer Tools & Environments**
@@ -74,7 +74,7 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=dhairyakhandelwal880-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" width="410" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhairyakhandelwal880-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" width="410" />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com/?user=dhairyakhandelwal880-dotcom&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=79c0ff" alt="Streak Stats" width="410" />
@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyakhandelwal880-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="450" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhairyakhandelwal880-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="450" />
       </td>
     </tr>
   </table>
@@ -98,36 +98,28 @@
     <tr>
       <td>
         <a href="https://github.com/dhairyakhandelwal880-dotcom/openpark">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhairyakhandelwal880-dotcom&repo=openpark&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="OpenPark Repo" width="400" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dhairyakhandelwal880-dotcom&repo=openpark&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="OpenPark Repo" width="400" />
         </a>
       </td>
       <td>
         <a href="https://github.com/dhairyakhandelwal880-dotcom/Sign-Language-to-Text---Voice">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhairyakhandelwal880-dotcom&repo=Sign-Language-to-Text---Voice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="Sign Language to Text Repo" width="400" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dhairyakhandelwal880-dotcom&repo=Sign-Language-to-Text---Voice&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="Sign Language to Text Repo" width="400" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/dhairyakhandelwal880-dotcom/WebDevLab">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhairyakhandelwal880-dotcom&repo=WebDevLab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="WebDevLab Repo" width="400" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dhairyakhandelwal880-dotcom&repo=WebDevLab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="WebDevLab Repo" width="400" />
         </a>
       </td>
       <td>
         <a href="https://github.com/dhairyakhandelwal880-dotcom/WebDevAss-TeamProject">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhairyakhandelwal880-dotcom&repo=WebDevAss-TeamProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="Team Project Repo" width="400" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dhairyakhandelwal880-dotcom&repo=WebDevAss-TeamProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="Team Project Repo" width="400" />
         </a>
       </td>
     </tr>
   </table>
-</div>
-
----
-
-### 🐍 Contribution Activity Stream
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dhairyakhandelwal880-dotcom/dhairyakhandelwal880-dotcom/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
